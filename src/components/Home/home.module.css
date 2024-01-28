@@ -1,0 +1,136 @@
+.img img{
+    display: inline-block;
+    border: 3px solid rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    height: 24%;
+    width: 24%;
+    border-radius: 10px;
+    margin-right: -800px; 
+    margin-bottom: -30px;
+    margin-top: -30;
+}
+
+.img {
+    max-width: 100%; /* Ajusta el tamaño máximo de la imagen para que se adapte al contenedor */
+    height: auto; /* Mantiene la proporción de la imagen al cambiar su ancho */
+}
+
+.hola{
+    display: flex;
+    align-items: center;
+}
+
+.intro {
+    text-align: left;
+    width: 80%;
+}
+.intro h1 {
+    color: rgb(0, 255, 179);
+    font-family:Georgia, 'Times New Roman', Times, serif;     
+    margin-bottom: 8px;
+    font-size: 66px;
+}
+.intro h2 {
+     color: rgb(255, 255, 255);
+      font-family:Georgia, 'Times New Roman', Times, serif; 
+    margin-bottom: 8px;
+    font-size: 38px;
+}
+.intro h3 {
+     color: rgb(255, 255, 255);
+      font-family:Georgia, 'Times New Roman', Times, serif; 
+    margin-bottom: 8px;
+    font-size: 30px;
+}
+
+
+
+.tecno h2 {
+    color: rgb(0, 255, 179);
+     font-family:Georgia, 'Times New Roman', Times, serif; 
+    margin-bottom: 8px;
+    font-size: 66px;
+}
+.tecno h3 {
+     color: rgb(255, 255, 255);
+     font-family:Georgia, 'Times New Roman', Times, serif; 
+    margin-bottom: 8px;
+    font-size: 30px;
+}
+
+
+.titulo h2{
+    color: rgb(0, 255, 179);
+     font-family:Georgia, 'Times New Roman', Times, serif; 
+    margin-bottom: 20px;
+    font-size: 66px;
+}
+
+
+.Pais h3{
+     color: rgb(255, 255, 255);
+     font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-size: 40px;
+}
+.Pais img{
+    height: 80%;
+    width: 80%;
+}
+.Pais h4{
+     color: rgb(255, 255, 255);
+     font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-size: 20px;
+}
+.Pais{
+    border: 3px solid rgb(0, 102, 255);
+    border-radius: 10px;
+    max-width: 40%;
+    height: auto;
+    margin: auto;
+}
+
+.Casa h3{
+     color: rgb(255, 254, 253);
+     font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-size: 40px;
+}
+.Casa img{
+    height: 80%;
+    width: 80%;
+}
+.Casa h4{
+     color: rgb(255, 255, 255);
+     font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-size: 20px;
+}
+.Casa{
+    border: 3px solid rgb(0, 102, 255);
+    border-radius: 10px;
+    max-width: 40%;
+    height: auto;
+    margin: auto;
+}
+
+.redes h2{
+    color: rgb(0, 255, 179);
+     font-family:Georgia, 'Times New Roman', Times, serif; 
+}
+.redes img{
+    max-width: 3%;
+    height: auto;
+    border: 2px solid rgb(255, 255, 255);
+    margin-left: 15px;
+}
+
+
+
+.todo{
+    background-color: rgb(7, 7, 7);
+}
+
+
+
+
+
+

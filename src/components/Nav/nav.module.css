@@ -1,0 +1,23 @@
+.todo{
+    border-bottom: 3px solid rgb(0, 102, 255);
+    padding-bottom: 1px;
+    background-color: rgb(0, 0, 0);
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.todo img{
+    max-width: 3%;
+    height: auto;
+}
+
+nav a {
+    text-decoration: none; /* Quitar el subrayado */
+    color: rgb(1, 255, 192); /* Cambiar el color del texto a negro (o el color deseado) */
+    margin-left: 15px;
+    font-size: 20px;
+}
